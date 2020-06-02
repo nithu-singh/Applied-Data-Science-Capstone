@@ -1,2 +1,3 @@
 # Applied-Data-Science-Capstone
-Assignment - Week 1
+
+This repository is a part of Applied Data Science Specialization - Capstone Project
